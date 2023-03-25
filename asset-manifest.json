@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Pnoirbit/static/css/main.2465d3a6.css",
+    "main.js": "/Pnoirbit/static/js/main.78e341b8.js",
+    "static/js/787.cd498418.chunk.js": "/Pnoirbit/static/js/787.cd498418.chunk.js",
+    "index.html": "/Pnoirbit/index.html",
+    "main.2465d3a6.css.map": "/Pnoirbit/static/css/main.2465d3a6.css.map",
+    "main.78e341b8.js.map": "/Pnoirbit/static/js/main.78e341b8.js.map",
+    "787.cd498418.chunk.js.map": "/Pnoirbit/static/js/787.cd498418.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2465d3a6.css",
+    "static/js/main.78e341b8.js"
+  ]
+}
